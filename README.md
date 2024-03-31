@@ -1,3 +1,3 @@
 # CSharp_project
-CSharp_project /n
+CSharp_project. 
 Temel seviye C# konsol uygulaması.
